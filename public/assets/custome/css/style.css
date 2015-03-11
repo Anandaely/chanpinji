@@ -1,0 +1,135 @@
+.navbar-toggle .icon-bar {
+    background-color: #18BC9C;
+}
+.product-nav a {
+    color: #000000;
+    font-size: 16px;
+}
+.product-nav > li {
+    padding-right: 2px;
+}
+.product-nav > li > a {
+    border-bottom: 3px solid #ffffff;
+}
+.product-nav > li > a.active {
+    background-color: #ecf0f1;
+}
+.product-nav > li.all > a:hover, .product-nav > li.all > a:focus, .product-nav > li.all > a.active {
+    border-bottom: 3px solid #000000;
+}
+.product-nav > li.next > a:hover, .product-nav > li.next > a:focus, .product-nav > li.next > a.active {
+    border-bottom: 3px solid #30D0DF;
+}
+.product-nav > li.mindstore > a:hover, .product-nav > li.mindstore > a:focus, .product-nav > li.mindstore > a.active {
+    border-bottom: 3px solid #2fcc7e;
+}
+.product-nav > li.producthunt > a:hover, .product-nav > li.producthunt > a:focus, .product-nav > li.producthunt > a.active {
+    border-bottom: 3px solid #da552f;
+}
+.next-color {
+    color: #30D0DF;
+}
+.mindstore-color {
+    color: #2fcc7e;
+}
+.producthunt-color {
+    color: #da552f;
+}
+.bs-callout {
+    padding: 10px 0px;
+    margin: 5px 0;
+    border: 1px solid #eee;
+    border-left-width: 5px;
+    border-radius: 3px;
+}
+.bs-callout-next {
+    border-left-color: #30D0DF;
+}
+.bs-callout-mindstore {
+    border-left-color: #2fcc7e;
+}
+.bs-callout-producthunt {
+    border-left-color: #da552f;
+}
+.progress-bar-next {
+    background-color: #30D0DF;
+}
+.progress-bar-mindstore {
+    background-color: #2fcc7e;
+}
+.progress-bar-producthunt {
+    background-color: #da552f;
+}
+.post {
+    margin-bottom: 20px;
+}
+.post .date_day {
+    font-size: 20px;
+    line-height: 20px;
+    display: inline-block;
+    font-weight: bold;
+    vertical-align: middle;
+}
+.post .date {
+    font-size: 12px;
+    line-height: 12px;
+    display: inline-block;
+    vertical-align: bottom;
+}
+.post .product .left-part strong {
+    font-size: 16px;
+}
+.post .product .left-part p {
+    margin: 5px 0 0;
+    font-size: 14px;
+}
+.post .product .comment {
+    font-size: 18px;
+    color: #bababb;
+    display: inline-block;
+    vertical-align: middle;
+    padding-left: 10px;
+}
+.post .product .comment .glyphicon {
+    top: 3px;
+}
+.post .product .num {
+    font-size: 14px;
+    display: inline-block;
+    vertical-align: middle;
+    color: #bababb;
+    width: 10px;
+}
+@media (max-width: 768px) {
+    .post .product .right-part {
+        float: left;
+        margin-left: 6px;
+    }
+}
+.post .product .right-part {
+    display: block;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.post .product-list {
+    margin-top: 20px;
+}
+.post .product .right-part .label {
+    margin-top: 15px;
+    display: inline-block;
+}
+.post .product .right-part .new-window .glyphicon{
+    top: 4px;
+}
+.label-next {
+    background-color: #30D0DF;
+}
+.label-mindstore {
+    background-color: #2fcc7e;
+}
+.label-producthunt {
+    background-color: #da552f;
+}
+footer {
+    margin: 30px 0;
+}

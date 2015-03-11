@@ -1,0 +1,26 @@
+{
+  "name": "chanpinji",
+  "version": "0.0.1",
+  "authors": [
+    "aidai524@gmail.com"
+  ],
+  "description": "Assets for site",
+  "keywords": [
+    "jquery",
+    "bootstrap"
+  ],
+  "license": "MIT",
+  "homepage": "www.chanpinji.cn",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/assets",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.3"
+  }
+}

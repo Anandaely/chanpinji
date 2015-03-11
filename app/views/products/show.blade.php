@@ -1,0 +1,1 @@
+/Users/joechu/Sites/disco/app/views/products/show.blade.php
